@@ -1,0 +1,2 @@
+# 💬 Languages
+**Korean**: Native
