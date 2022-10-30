@@ -2,61 +2,43 @@
 
 ## Summary
 
-Senior Software Developer specializing in web application development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C# .NET, Python and JavaScript/TypeScript. Strong background in both accounting/auditing and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
+Full Stack Software Engineer. Experienced with all stages of the development cycle and skilled in programming languages and frameworks, including C#, .NET, JavaScript, and SQL. US Army Veteran with financial and IT technician background.
 
 
 ## Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+**Full Stack Software Engineer** @ [MiVet](https://www.linkedin.com/company/mi-vet/) _(Jul 2018 - Nov 2022)_
 
-Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
+MiVet is a mobile and web app that streamlines equine veterinary care. Its main features are two-way messaging/video calls, a shared platform for document storage, appointment/scheduling, and simplified billing.
 - Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
+  - Designed and implemented React component that displays different instances of a medical practice with custom-built APIs, services, and controllers using the .NET framework.
+  - Built components for a medical practice that incorporated Google Map APIs and a list of vets and services with SQL procs to provide related data.
+  - Created a Dashboard for veterinarians with Apexchart to provide users better glance at Data.
+  - Implemented the invoiceForm with capability to add as many lines as user wants.
+  - Built children components for the Dashboard for users to see a more detailed view of the data.
+  - Designed a unified form with file upload and location components by passing data for a better User experience when creating new medical practice.
+  - Implemented Formik and Yup libraries along with Bootstrap classes to generate a form to create a Practice with its information.
+  - Built .NET models, services, interfaces, controllers, and RESTful APIs to connect front-end and back-end functionality.
+  - Engineered complex stored procedures in SQL using UDTs and Joins to capture and display data for data manipulation.
+  - Exercised source control using Git and GitHub and engaged in daily stand-ups and frequent code reviews as means of embodying AGILE/SCRUM Methodologies.
+- _**Technologies used:**_ C#, SQL, JavaScript, React.js, Git, .NET
 
 &nbsp;
 
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
+**Nodal Network Systems Operator-Maintainer** @ [California National Guard](https://www.goarmy.com/careers-and-jobs/career-match/signal-intelligence/locations-stats-frequencies/25n-nodal-network-systems-operator.html) _(Oct 2016 - Oct 2022)_
 
-Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
+Maintained all internal communications systems devices, including Cisco Switches, Routers, and User access cases.
 - Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
+  - Assisted users with technical issues, from basic troubleshooting to router configurations.
+  - Worked in a highly classified environment and met its obligations.
 
 &nbsp;
 
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
-
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
 
 ## Education
 
-`2021-2022` [National Taipei University of Technology](https://www-en.ntut.edu.tw/)
-- **Extension program** in Computer Science, Electrical Engineering, and Electronic Engineering
-- Courses: Computer Organization, Discrete Mathematics, Computer Program-
-ming(I), Object-Oriented Programming, Probability, Digital Logic Design
-- GPA: 4.0/4.0
-
-`2021-2022` [National Taiwan Normal University](https://en.ntnu.edu.tw/)
-- **Extension program** in Electrical Engineering
-- Courses: Operating Systems
-- GPA: 4.3/4.3
-
-`2020–2022` [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
-- **Extension program** in Software Engineering and Digital Innovation Applications, and Information Management 
-- Courses: Algorithms, Linear Algebra, Database Administration
-- GPA: 4.0/4.0
-
-`2020-2021` [National Taipei University of Business](https://www.ntub.edu.tw/index.php?Lang=en)
-- **Extension program** in Information Management 
-- Courses: Data Structures
-- GPA: 4.0/4.0
-
-`2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
-- **B.B.A** in Accountancy
-- GPA: 3.88/4.0
+`2020-2022` [California State Polytechnic University, Pomona](https://www.cpp.edu/index.shtml)
+- **Extension program** in Computer Information Systems, Business Administration.
 
 ## Skills
 
@@ -65,24 +47,18 @@ ming(I), Object-Oriented Programming, Probability, Digital Logic Design
 - Desktop App Development
 - Web Development (Frontend & Backend)
 
+
 ### Programming languages
 - C# .NET
-- Python
-- JavaScript/TypeScript
+- JavaScript
   - React.js
 - T-SQL
-- Go
-- C++
-- Java
-- VB.NET/VBA
+
 
 ## Certificates
-- Certified Public Accountant (Taiwan)
+- CompTIA Security+
+- AWS Certified Cloud Practitioner
 
-## Accomplishments
-**Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them. 
 
 ## Languages
-**English**: C1
-**Chinese**: Native
+**Korean**: Native

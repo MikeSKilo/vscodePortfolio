@@ -1,2 +1,3 @@
 # 🥇 Certificates
-- Certified Public Accountant (Taiwan)
+- CompTIA Security+
+- AWS Certified Cloud Practitioner

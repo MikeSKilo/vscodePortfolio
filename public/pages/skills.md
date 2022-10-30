@@ -7,26 +7,13 @@
 
 ## Programming languages
 - C# .NET
-- Python
-- JavaScript/TypeScript
+- JavaScript
   - React.js
 - T-SQL
-- Go
-- C++
-- Java
-- VB.NET/VBA
 
 ## Databases
-- MSSQL
-- PostgreSQL
-- MySQL
-- SQLite
-
-## Cloud
-- Azure
-- GCP
-- Heroku
-- Render
+- SQL
+- Microsoft SQL Server
 
 ## Vcs
 - Git
