@@ -18,5 +18,6 @@ For my Portfolio site.
 * [React Icons](https://react-icons.github.io/react-icons/search)
 * [caglarturali.github.io](https://github.com/caglarturali/caglarturali.github.io)
 * [react-vscode-portfolio](https://github.com/noworneverev/react-vscode-portfolio)
+* [Netlify](https://www.netlify.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
