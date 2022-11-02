@@ -1,8 +1,6 @@
 # 💻 Skills
 
 ## General Tech Stacks
-- Architecture Design
-- Desktop App Development
 - Web Development (Frontend & Backend)
 
 ## Programming languages
