@@ -1,6 +1,10 @@
 # 👨‍💻 Experience
 
-**Full Stack Software Engineer** @ [MiVet](https://www.linkedin.com/company/mi-vet/) _(Jul 2018 - Nov 2022)_
+**Staff Engineer** @ [Booz Allen](https://www.boozallen.coi-vet/) _(Jan 2023 - Present)_
+Software Engineer (Jan 2023 - Present)
+- Develop and maintain web apps for a client
+
+**Full Stack Software Engineer** @ [MiVet](https://www.linkedin.com/company/mi-vet/) _(Jul 2022 - Jan 2023)_
 
 MiVet is a mobile and web app that streamlines equine veterinary care. Its main features are two-way messaging/video calls, a shared platform for document storage, appointment/scheduling, and simplified billing.
 - Detailed achievements:
